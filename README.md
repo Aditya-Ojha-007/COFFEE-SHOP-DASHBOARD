@@ -4,8 +4,8 @@ A Power BI & MySQL project
 This project is a dashboard for Coffee Shop Sales, which visualizes key metrics such as sales, orders, quantities over time, across locations, and by product categories. The goal is to enable stakeholders to monitor performance (daily, monthly), compare with prior periods (month-on-month), and dive into details (day, hour, product category, store location).
 
 ## the questions which are use in SQL and  analytics the dashboard answers:
-  1).Calculate total sales for each respective month.
-  2).Determine month-on-month increase or decrease in sales.
+  1).Calculate total sales for each respective month.                                                                                                                                                                  
+  2).Determine month-on-month increase or decrease in sales.                                                                                                                                                           
   3).Calculate the number of orders for each respective month.
   4).Month-on-month change in number of orders.
   5).Calculate the total quantity sold for each respective month.
