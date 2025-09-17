@@ -1,7 +1,11 @@
 # Coffee Shop Sales Dashboard
 A Power BI & MySQL project
+
 # Project Overview
 This project is a dashboard for Coffee Shop Sales, which visualizes key metrics such as sales, orders, quantities over time, across locations, and by product categories. The goal is to enable stakeholders to monitor performance (daily, monthly), compare with prior periods (month-on-month), and dive into details (day, hour, product category, store location).
+
+# DataSet Used
+<a href="https://github.com/Aditya-Ojha-007/COFFEE-SHOP-DASHBOARD/blob/main/COFFEE%20SALES.pbit">Dataset</a>
 
 ## the questions which are use in SQL and  analytics the dashboard answers:
   1).Calculate total sales for each respective month.                                                                                                                                                                  
@@ -16,12 +20,20 @@ This project is a dashboard for Coffee Shop Sales, which visualizes key metrics 
   10).Calculate the average sales of months.                                                                                                                                                                           
   11).Calculate the daily average sales of a month.                                                                                                                                                                    
   12).Find the difference between daily average sales and monthly average sales (Above/Below Average).                                                                                                                 
-  13).Calculate the total sales of each product category (Top 10).                                                                                                                                                     
+  13).Calculate the total sales of each product category (Top 10).   
+
+
+# SQL File Pdf
+<a href="https://github.com/Aditya-Ojha-007/COFFEE-SHOP-DASHBOARD/blob/main/Coffee%20Shop%20%20SQl.pdf">SQL</a>   
+  
 
 # Technologies
-  MySQL (SQL queries, data storage)
-  Power BI (data visualization)
-  Possibly Power Query / DAX for aggregations, time intelligence
+  MySQL (SQL queries, data storage)                                                                                                                                                                                  
+  Power BI (data visualization)                                                                                                                                                                                      
+  Possibly Power Query / DAX for aggregations, time intelligence  
+  
+# DashBoard
+<img width="1368" height="834" alt="coffee shop Dashboard" src="https://github.com/user-attachments/assets/ba53d538-c9aa-4d6d-bd8b-304275ef7ce9" />
 
   
   
